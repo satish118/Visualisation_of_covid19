@@ -28,6 +28,9 @@ Monitor essential metrics such as:
 - **Recovery Rate**
 - **Active Cases**
 
+![image](https://github.com/user-attachments/assets/66a9dbb5-d3aa-4cad-a530-f7e6bd936ebc)
+
+
 These KPIs provide valuable context for assessing the severity of the outbreak and the effectiveness of response measures.
 
 ---
